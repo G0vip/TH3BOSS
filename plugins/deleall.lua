@@ -23,4 +23,4 @@ return {patterns = {
         '^(تنظيف الكل)$',
     },
     run = th3boss}
---By @TH3BOSS
+--By @G0vip
