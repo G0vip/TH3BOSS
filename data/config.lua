@@ -11,7 +11,7 @@ do local _ = {
     "addreplay",
     "deleall"
   },
-  info_text = "📌¦ Welcome My Dear\n\nTH3BOSS V14 \nFor More Information Subscribe To The Channel @llDEV1ll \n https://github.com/moody2020/TH3BOSS\n\n📌¦ Dev @TH3BOSS\n\n📌¦ Dev Bot @ll60Kllbot\n\n📌¦ Channel @llDEV1ll ",
+  info_text = "📌¦ Welcome My Dear\n\nTelehook V14 \nFor More Information Subscribe To The Channel @hlusat \n https://github.com/G0vip/Telehook\n\n📌¦ Dev @G0vip\n\n📌¦ Dev Bot @f4f4f4bot\n\n📌¦ Channel @hlusat ",
   moderation = {
     data = "./data/moderation.json"
   },
